@@ -77,4 +77,3 @@ Welcome! I am a postdoctoral researcher at [PROSPER](https://www.clsbe.lisboa.uc
 
 My research aims to understand labour markets, both from a theoretical and an applied perspective. My research questions are related to how workers and firms match, and why skill mismatches occur. I am also interested in informal employment in developing countries.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
