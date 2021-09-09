@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: academic
+theme: "jaimono_theme"
 day_night: true
-font: ''
-font_size: L
+font: "fonts_jaimono"
+font_size: XL
 
 # SEO
 
