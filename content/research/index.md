@@ -23,7 +23,7 @@ image:
 
 ## Work in progress
 
--[**Selective displacement and workforce restructuring during a masslayoff**]("uploads/selective_2021_MONTANA_MARGOLIS.pdf")
+-[**Selective displacement and workforce restructuring during a masslayoff**]("static/files/selective_2021_MONTANA_MARGOLIS.pdf")
 
 
 In this paper we investigate the role of firms when they face a mass layoff. We investigate a simple question: _`when things go bad, who gets fired first?'_. Using administrative and survey data for France,
@@ -31,7 +31,7 @@ we first show that the companies that had a mass layoff used this event to restr
 <small>
 
 
--[**Wage posting and skills mismatch**]("uploads/Wage_posting_and_multidimensional_skills_mismatch_MONTANA_2021.pdf").
+-[**Wage posting and skills mismatch**]("static/files/Wage_posting_and_multidimensional_skills_mismatch_MONTANA_2021.pdf").
 
 <small>
 
