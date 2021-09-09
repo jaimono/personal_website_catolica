@@ -23,7 +23,7 @@ image:
 
 ## Work in progress
 
--[**Selective displacement and workforce restructuring during a masslayoff**]("static/files/selective_2021_MONTANA_MARGOLIS.pdf")
+-[**Selective displacement and workforce restructuring during a masslayoff**](pdf_resources/selective_2021_MONTANA_MARGOLIS.pdf")
 
 
 In this paper we investigate the role of firms when they face a mass layoff. We investigate a simple question: _`when things go bad, who gets fired first?'_. Using administrative and survey data for France,
