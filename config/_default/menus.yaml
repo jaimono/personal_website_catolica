@@ -7,9 +7,9 @@ main:
   - name: "<i class='fas fa-home'></i> Home"
     url: '#about'
     weight: 10
-#  - name: "<i class='far fa-bookmark'></i> Teaching"
-#    url: '#teaching'
-#    weight: 15
+  - name: "<i class='far fa-bookmark'></i> Teaching"
+    url: 'teaching'
+    weight: 15
   - name: "<i class='fas fa-pencil-alt'></i> Research"
     url: "research"
     weight: 50
