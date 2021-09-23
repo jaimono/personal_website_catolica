@@ -27,7 +27,7 @@ image:
 
 Based on the code from Filipa Reis.
 
-[Slides 1](https://jaimono.netlify.app/files/lab01.pdf), [Slides 2](https://jaimono.netlify.app/files/lab02.pdf), [Slides 3](https://jaimono.netlify.app/files/lab03.pdf)
+[ Slides 1](https://jaimono.netlify.app/files/lab01.pdf), [ Slides 2](https://jaimono.netlify.app/files/lab02.pdf), [ Slides 3](https://jaimono.netlify.app/files/lab03.pdf), [ Slides 4](https://jaimono.netlify.app/files/lab04.pdf)
 
 ## Paris School of Economics
 
