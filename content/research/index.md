@@ -23,6 +23,14 @@ image:
 
 ## Work in progress
 
+- [**The Role of Firms in Wage Inequality Dynamics**](https://jaimono.netlify.app/files/The_role_of_firms_in_wage_inequality_dynamics.pdf)
+
+<small> 
+
+This paper examines the mechanisms through which firms impact earnings inequality dynamics. Using a rich combination of administrative matched employer-employee-job title data, and detailed technology adoption firm surveys for Portugal, we show that the decrease in wage inequality has arisen from a compression in the firm pay premium, the job title pay premium and their covariance. These effects were mainly driven by a decline in passthrough from firm characteristics to pay, rather than changes in the distribution of these characteristics. Results show that workforce composition and labor productivity are the main drivers of firm pay premiums compression, and that this effect comes from a decline in returns to these characteristics. An increasing share of workers earning the minimum wage and a reduction in labor market concentration also contributed to the fall in between-firm pay premium dispersion but had smaller roles. We also find that technological adoption increases within-firm labor income inequality. Our results shed new light on how firms impact labor income inequality dynamics and have profound policy implications for the design of policies to mitigate inequality.
+
+</small>
+
 - [**Selective displacement and workforce restructuring during a masslayoff**](https://jaimono.netlify.app/files/selective_2021_MONTANA_MARGOLIS.pdf)
 
 <small> 
@@ -61,7 +69,7 @@ This paper models the labor market matching process when skills are multidimensi
 
 ## In spanish:
 
-- **Efectos de corto plazo del COVID-19 sobre la desigualdad del ingreso laboral en Colombia**. Book chapter. _(forthcomming)_
+- [**Efectos de corto plazo del COVID-19 sobre la desigualdad del ingreso laboral en Colombia**](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10296/LBR_2022-04.pdf). Book chapter. Banco de la Republica de Colombia. ISBN:9789587848496.
 
 - [**Metodología para el análisis de demanda laboral mediante datos de internet: el caso colombiano.**](https://revistas.urosario.edu.co/index.php/economia/article/view/4583/3299) (with J. Cárdenas and J. Guataqui) Revista de Economía del Rosario, 18(01), 93-126. (2015)
 
