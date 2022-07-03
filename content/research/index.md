@@ -23,7 +23,7 @@ image:
 
 ## Work in progress
 
-- [**The Role of Firms in Wage Inequality Dynamics**](https://jaimono.netlify.app/files/The_role_of_firms_in_wage_inequality_dynamics.pdf)
+- [**The Role of Firms in Wage Inequality Dynamics** (with J. Silva & M. Leitao)](https://jaimono.netlify.app/files/The_role_of_firms_in_wage_inequality_dynamics.pdf)
 
 <small> 
 
@@ -31,7 +31,7 @@ This paper examines the mechanisms through which firms impact earnings inequalit
 
 </small>
 
-- [**Selective displacement and workforce restructuring during a masslayoff**](https://jaimono.netlify.app/files/selective_2021_MONTANA_MARGOLIS.pdf)
+- [**Selective displacement and workforce restructuring during a masslayoff** (with D. Margolis)](https://jaimono.netlify.app/files/selective_2021_MONTANA_MARGOLIS.pdf)
 
 <small> 
 
@@ -64,7 +64,7 @@ This paper models the labor market matching process when skills are multidimensi
 
 ## Articles
 
-- **Which Workers are Most Exposed to covid-19 and Social Distancing Effects in a Dual Labour Market?** [(link)](https://doi.org/10.12804/revistas.urosario.edu.co/economia/a.10549)(with D. Bosworth  aand J. Cárdenas) Revista de Economía del Rosario, Vol. 24 Núm. 2 (2021): 24-2 
+- **Which Workers are Most Exposed to covid-19 and Social Distancing Effects in a Dual Labour Market?** [(link)](https://doi.org/10.12804/revistas.urosario.edu.co/economia/a.10549)(with D. Bosworth  and J. Cárdenas) Revista de Economía del Rosario, Vol. 24 Núm. 2 (2021): 24-2 
 
 
 ## In spanish:
