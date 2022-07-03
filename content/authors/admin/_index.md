@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jaimem.montana@gmail.com'  # For a direct email link, use "mailto:jaime.montana@psemail.eu".
+  link: 'mailto:jaime.montana@proton.me'  # For a direct email link, use "mailto:jaime.montana@psemail.eu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JaimemMontana
@@ -67,7 +67,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jaimem.montana@gmail.com"
+email: "jaime.montana@proton.me"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
