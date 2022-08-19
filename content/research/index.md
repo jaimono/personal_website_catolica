@@ -23,7 +23,7 @@ image:
 
 ## Work in progress
 
-- [**The Role of Firms in Wage Inequality Dynamics** (with J. Silva & M. Leitao)](https://jaimono.netlify.app/files/The_role_of_firms_in_wage_inequality_dynamics.pdf) \emdash [VoxEU column](https://cepr.org/voxeu/columns/how-firms-reduce-wage-inequality)
+- [**The Role of Firms in Wage Inequality Dynamics** (with J. Silva & M. Leitao)](https://jaimono.netlify.app/files/The_role_of_firms_in_wage_inequality_dynamics.pdf) $\emdash$ [VoxEU column](https://cepr.org/voxeu/columns/how-firms-reduce-wage-inequality)
 
 <small> 
 
