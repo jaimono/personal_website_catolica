@@ -23,7 +23,7 @@ image:
 
 ## Work in progress
 
-- [**The Great Equalizer: How Firms Reduce Wage Inequality** (with M. Leitao & J. Silva)](https://jaimono.netlify.app/files/The_Great_Equalizer_LMS_2023.pdf)-- [**On-line appendix**](https://jaimono.netlify.app/files/online_appendix_LMS_2023.pdf)   -- [VoxEU column](https://cepr.org/voxeu/columns/how-firms-reduce-wage-inequality) 
+- [**The Great Equalizer: How Firms Reduce Wage Inequality** (with M. Leitao & J. Silva)](https://jaimono.netlify.app/files/The_Great_Equalizer_LMS_2023.pdf)-- [**\[On-line appendix\]**](https://jaimono.netlify.app/files/online_appendix_LMS_2023.pdf)   -- [\[VoxEU column\]](https://cepr.org/voxeu/columns/how-firms-reduce-wage-inequality) 
 
 <small> 
 
