@@ -31,7 +31,7 @@ We study how firms impact the dynamics of earnings inequality. Using linked empl
 
 </small>
 
-- [**The dynamics of job destruction, workforce characteristics and economic performance: Evidence from firm-level data in France, 2007-2018** (with Darcillon, lagneau-ymonet, Reynaud)](https://jaimono.netlify.app/files/DMRY_The_dynamics_of_job_destruction.pdf) 
+- [**The dynamics of job destruction, workforce characteristics and economic performance: Evidence from firm-level data in France, 2007-2018** (with Darcillon, Lagneau-Ymonet and Reynaud)](https://jaimono.netlify.app/files/DMRY_The_dynamics_of_job_destruction.pdf) 
 
 <small> 
 
