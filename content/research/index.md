@@ -41,12 +41,12 @@ We study the determinants of job destruction among companies with 50-plus employ
 
 
 
-- [**Selective displacement and workforce restructuring during a masslayoff** (with D. Margolis)](https://jaimono.netlify.app/files/selective_2021_MONTANA_MARGOLIS.pdf)
+- [**’Looking ahead or making hay’: How mass layoffs
+reshape firms knowledge and structure** (with D. Margolis)](https://jaimono.netlify.app/files/selective_last_MONTANA_MARGOLIS.pdf)
 
 <small> 
 
-In this paper we investigate the role of firms when they face a mass layoff. We investigate a simple question: _`when things go bad, who gets fired first?'_. Using administrative and survey data for France,
-we first show that the companies that had a mass layoff used this event to restructure their workforce. We observe a small but significant increase in the composition of social skills and a decrease in manual skills and cognitive skills within the firm, as compared to the control group. The restructuring of the workforce demonstrates that firms use layoff strategically to recompose, and then selective displacement plays an important role. We also investigate the factors that determining who is fired. The results indicate that firms strategically chose which workers to displace, and that demographic characteristics, perceived cost and skills mismatch are determining factors.
+This paper contests the traditional view of layoffs as solely reactive to negative economic conditions. Using survey and administrative French data, we provide evidence on how firms strategically utilize mass layoffs to restructure their workforce composition. First, we investigate if firms use layoffs to shift their skill requirements. Analyzing both layoff and matched non-layoff firms, we find firms significantly increase the requirements for social skills while decreasing dependence on manual and cognitive skills requirements after layoffs. This suggests a premeditated reshaping of the workforce instead of a cost-cutting practice. Secondly, we explore the factors influencing selection into displacement during layoffs. We focus on three key aspects: skills mismatch, relative worker quality, and perceived monetary cost. Our findings highlight the significant role of skill mismatch and worker quality in determining dismissal, suggesting firms actively select based on strategic needs. By revealing the strategic nature of mass layoffs and their impact on skills composition and worker selection, this paper offers valuable insights into the understanding of workforce adjustment. Such insights are relevant for policy design.
 
 </small> 
 
