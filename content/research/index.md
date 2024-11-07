@@ -31,18 +31,18 @@ We study how firms impact the dynamics of earnings inequality. Using linked empl
 
 </small>
 
-- [**The dynamics of job destruction, workforce characteristics and economic performance: Evidence from firm-level data in France, 2007-2018** (with Darcillon, Lagneau-Ymonet and Reynaud)](https://jaimono.netlify.app/files/DMRY_The_dynamics_of_job_destruction.pdf) 
+- [**Job destruction, workforce characteristics and economic performance: Evidence from firm-level data in France, 2007-2018** (with Darcillon, Lagneau-Ymonet and Reynaud)](https://jaimono.netlify.app/files/DMRY_The_dynamics_of_job_destruction.pdf) 
 
 <small> 
 
-We study the determinants of job destruction among companies with 50-plus employees. We use French firm-level data from 2007 to 2018 and propose two approaches. The first is the identification, with an original algorithm, of the number of firms resorting to mass layoffs, legally defined as being in a position to have to implement a \textit{Plan de Sauvegarde de l’Emploi} (PSE). We find that firm workforce composition (age and occupation) influences the probability of a firm adopting a PSE. Then, we find strong evidence that lower economic and financial performance is associated with a greater likelihood of implementing a PSE. The second approach consists of quantile regression analyses of the annual variation in jobs. Differences in job growth are mostly attributable to sociodemographic variables and to indebtedness. Overall, we find consistent but not identical results on job destruction and on the probability of being in a position of adopting a PSE.
+The role of firms in adjusting workforce extends beyond merely responding to crises; however, other contributing factors remain incompletely understood. This study provides new insights into the determinants of workforce adjustments. Analyzing data from a decade (2007-2018) of medium and large French firms, we investigate how workforce composition and financial indicators drive workforce dynamics. We analyze three main outcomes. First, we examine the probability of mass layoffs within the framework of the french legislation '_Plan de Sauvegarde de l'Emploi_'- PSE. Second, we explore how these factors influence firm size, and finally, we assess their effects across different job growth rates. Our findings provide a comprehensive view of how workforce characteristics and financial indicators shape both expansion and contraction in firm employment, offering policymakers insight into the key factors affecting workforce adjustments.
 
 </small>
 
 
 
 - [**’Who gets to stay?’: How mass layoffs
-reshape firms firms’ skills structure** (with D. Margolis)](https://jaimono.netlify.app/files/selective_last_MONTANA_MARGOLIS.pdf)
+reshape firms firms’ skills structure** (with D. Margolis)](https://jaimono.netlify.app/files/selective_last_MONTANA_MARGOLIS.pdf) [IZAWP-17426](https://docs.iza.org/dp17426.pdf.)
 
 <small> 
 
