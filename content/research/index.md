@@ -42,7 +42,7 @@ The role of firms in adjusting workforce extends beyond merely responding to cri
 
 
 - [**’Who gets to stay?’: How mass layoffs
-reshape firms firms’ skills structure** (with D. Margolis)](https://jaimono.netlify.app/files/selective_last_MONTANA_MARGOLIS.pdf) [IZAWP-17426](https://docs.iza.org/dp17426.pdf)
+reshape firms firms’ skills structure** (with D. Margolis)](https://jaimono.netlify.app/files/selective_last_MONTANA_MARGOLIS.pdf) -- [\[IZAWP-17426\]](https://docs.iza.org/dp17426.pdf)
 
 <small> 
 
